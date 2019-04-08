@@ -1,1 +1,1 @@
-# Zeus
+Program created for booking table in Zeus Restro Bar. Collects data from the users such as Name, Number of people, gender, age,etc and accordingly books a table with verification whether the customer is above 18 or not. 
